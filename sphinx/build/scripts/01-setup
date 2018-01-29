@@ -28,5 +28,5 @@ ln -s /usr/share/fonts/opentype/ipafont-gothic/ipag.ttf /usr/share/fonts/ipa-got
 ##
 ## install sphinx theme
 ##
-pip install sphinxjp.themecore sphinxjp.themes.sphinxjp sphinx_rtd_theme
+pip install sphinxjp.themecore sphinxjp.themes.sphinxjp sphinx_rtd_theme recommonmark
 
