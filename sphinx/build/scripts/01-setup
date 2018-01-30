@@ -28,7 +28,7 @@ ln -s /usr/share/fonts/opentype/ipafont-gothic/ipag.ttf /usr/share/fonts/ipa-got
 ##
 ## install sphinx
 ##
-pip install sphinx sphinx-autobuild sphinx_rtd_theme recommonmark
+pip install sphinx sphinx-autobuild sphinx_rtd_theme recommonmark jieba
 
 ##
 ## install sphinx theme
