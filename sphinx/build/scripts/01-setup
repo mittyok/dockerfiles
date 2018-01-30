@@ -26,7 +26,12 @@ mkdir /usr/share/fonts/ipa-gothic
 ln -s /usr/share/fonts/opentype/ipafont-gothic/ipag.ttf /usr/share/fonts/ipa-gothic/ipag.ttf
 
 ##
+## install sphinx
+##
+pip install sphinx sphinx-autobuild sphinx_rtd_theme recommonmark
+
+##
 ## install sphinx theme
 ##
-pip install sphinxjp.themecore sphinxjp.themes.sphinxjp sphinx_rtd_theme recommonmark
+## pip install sphinxjp.themecore sphinxjp.themes.sphinxjp sphinx_rtd_theme recommonmark
 
